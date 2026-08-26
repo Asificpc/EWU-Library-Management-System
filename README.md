@@ -70,7 +70,7 @@ EWU-Library-Management-System
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/EWU-Library-Management-System.git
+git clone https://github.com/Asificpc/EWU-Library-Management-System.git
 ```
 
 ### 2. Open the project
